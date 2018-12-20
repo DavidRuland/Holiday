@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Holiday wishlist</string>
+    <string name="cancel">Cancel</string>
+    <string name="rating">Rating</string>
+    <string name="item_description">Description</string>
+    <string name="holidays_wishlist">Holidays wishlist</string>
+    <string name="name">Name</string>
+    <string name="ok">Ok</string>
+    <string name="price">Price</string>
+    <string name="app_language">Change Language</string>
+    <string name="press_to_write">Press to write</string>
+</resources>
